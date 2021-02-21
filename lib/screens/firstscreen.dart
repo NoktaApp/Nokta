@@ -14,10 +14,15 @@ class FirstScreenState extends State<FirstScreen> {
         centerTitle: true,
         //Uygulamanın başlığı
         title: Text(
-          'Nokta App',
+          'Nokta',
         ),
       ),
-      body: Container(),
+      body: Center(
+        child: Text(
+          'Nokta App.',
+          textAlign: TextAlign.center,
+        ),
+      ),
     );
   }
 }
