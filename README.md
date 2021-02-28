@@ -1,4 +1,4 @@
 # Nokta
 
-Dart programlama dilini öğrendikçe, aklımda bulunan özellikleri ekleyeceğim. 
+Dart programlama dilini öğrendikçe, yeni özellikler ekleyeceğim. 
 
